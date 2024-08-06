@@ -1,0 +1,17 @@
+Product ID        Product Name             Category           Price
+0001              iPhone 11 pro            iphone            175000
+0002              iphone 12 pro max       iphone            250000
+0003              iphone 11 pro            iphone           190000
+0004              Mac                      Macbook         400000
+0005              Macbook air              Macbook          445000
+0006              ipad9th                  ipad             1040000
+0007              ipad pro12               ipad             395000
+0008              Series 8                 Apple watch      119000
+0009              iphone 8+                iphone           100000
+0010              iphone 12 pro max       iphone            250000
+0011              iphone 11 pro            iphone           190000
+0012              Mac                      Macbook         400000
+0013              Macbook air              Macbook          445000
+0014              iphone 8+                iphone           100000
+0015              Series 11                Apple watch      219000
+0016              iphone 14 pro max         iphone            400000

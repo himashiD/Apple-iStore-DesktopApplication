@@ -1,0 +1,7 @@
+Productid,Productname,category,price
+1000 , 13 pro , iphone ,450000.0
+1001 , mac12 , mac ,223000.0
+1002 , 12 pro max ,iphone ,350000.0
+1003, AppleWatch ,Watch , 10000.0
+1004 , 13 pro ,iphone , 390000.0
+1005 , 14 Pro ,iphone , 350000.0
